@@ -1,10 +1,11 @@
-pluginManagement {
+
+123123pluginManagement {
     repositories {
         google {
             content {
                 includeGroupByRegex("com\\.android.*")
                 includeGroupByRegex("com\\.google.*")
-                includeGroupByRegex("androidx.*")
+                includeGroupByRegex("androidx.*")41341351
             }
         }
         mavenCentral()
