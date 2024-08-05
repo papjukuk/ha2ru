@@ -27,6 +27,7 @@
 
         test
         test2
+        test3
         <activity
             android:name=".SplashActivity"
             android:exported="true">
